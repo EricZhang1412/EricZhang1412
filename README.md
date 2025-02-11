@@ -8,3 +8,4 @@
 </p>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=EricZhang1412&show_icons=true&theme=radical)
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EricZhang1412&theme=tokyo-night)](https://github.com/EricZhang1412/github-readme-activity-graph)
