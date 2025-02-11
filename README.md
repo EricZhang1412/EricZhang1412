@@ -3,11 +3,15 @@
 👋 Hi there, feel free to call me Eric♈.
 
 ✨I am currently an senior student at SICE, UESTC, majored in IoT-Engineering. 
+
 ✨I will pursue my Ph.D degree in Sep,2025 majored in computer science and technology, SCSE, UESTC.
 
-I am working on **brain-inspired computing** and **spiking neural networks**. (to be more specific, model compressing and principles of machine learning based on SNNs)
+### Research Interests:
 
-My Skills: 
+🪄I am working on **brain-inspired computing** and **spiking neural networks**. (to be more specific, model compressing and principles of machine learning based on SNNs)
+
+### My Skills: 
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,git,ai,linux,matlab,notion,py,pytorch,vscode" />
