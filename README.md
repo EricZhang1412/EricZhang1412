@@ -1,8 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&weight=1200&size=30&duration=3000&pause=1&center=true&vCenter=true&width=438&height=80&lines=Be+Creative%2C+Be+Critical;%E5%88%9B%E6%80%9D%E5%A6%82%E6%B3%89%EF%BC%8C%E9%89%B4%E7%96%91%E8%8B%A5%E9%95%9C)](https://git.io/typing-svg)
 
-👋 Hi there, feel free to call me Eric.
+👋 Hi there, feel free to call me Eric♈.
 
+✨I am currently an senior student at SICE, UESTC, majored in IoT-Engineering. 
+✨I will pursue my Ph.D degree in Sep,2025 majored in computer science and technology, SCSE, UESTC.
 
+I am working on **brain-inspired computing** and **spiking neural networks**. (to be more specific, model compressing and principles of machine learning based on SNNs)
 
 My Skills: 
 <p align="center">
