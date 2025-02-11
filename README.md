@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&weight=1200&size=30&pause=1000&center=true&vCenter=true&width=438&height=80&lines=Be+Creative%2C+Be+Critical)](https://git.io/typing-svg)
