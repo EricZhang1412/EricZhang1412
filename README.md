@@ -1,5 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&weight=1200&size=30&duration=3000&pause=1&center=true&vCenter=true&width=438&height=80&lines=Be+Creative%2C+Be+Critical;%E5%88%9B%E6%80%9D%E5%A6%82%E6%B3%89%EF%BC%8C%E9%89%B4%E7%96%91%E8%8B%A5%E9%95%9C)](https://git.io/typing-svg)
 
+👋 Hi there, feel free to call me Eric.
+
+
+
+My Skills: 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,git,ai,linux,matlab,notion,py,pytorch,vscode" />
+  </a>
+</p>
+
+
 <p align="center">
 <a title="Hits" target="_blank" href="https://github.com/EricZhang1412/EricZhang1412"><img src="https://hits.b3log.org/Achuan-2/Achuan-2.svg" ></a>
 <a title="github" target="_blank" href="https://github.com/EricZhang1412"><img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DEricZhang1412&query=%24.data.totalSubs&logo=github&label=Github"></a>
