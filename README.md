@@ -35,6 +35,11 @@
   </a>
 </p>
 
-![My github Contributions](https://raw.githubusercontent.com/EricZhang1412/EricZhang1412/main/assets/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EricZhang1412/EricZhang1412/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EricZhang1412/EricZhang1412/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EricZhang1412/EricZhang1412/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EricZhang1412&theme=tokyo-night)](https://github.com/EricZhang1412/github-readme-activity-graph)
