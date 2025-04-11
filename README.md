@@ -35,4 +35,6 @@
   </a>
 </p>
 
+![My github Contributions](https://raw.githubusercontent.com/EricZhang1412/EricZhang1412/main/assets/github-contribution-grid-snake.svg)
+
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EricZhang1412&theme=tokyo-night)](https://github.com/EricZhang1412/github-readme-activity-graph)
