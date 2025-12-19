@@ -2,9 +2,9 @@
 
 ### 👋 Hi there, feel free to call me Eric♈.
 
-### ✨I am currently an senior student at SICE, UESTC, majored in IoT-Engineering. 
+### ✨Bachelor at SICE, UESTC, majored in IoT-Engineering. 
 
-### ✨I will pursue my Ph.D degree in Sep,2025 majored in computer science and technology, SCSE, UESTC.
+### ✨Ph.D Student majored in computer science and technology, SCSE, UESTC.
 
 ### Research Interests:
 
